@@ -1,0 +1,38 @@
+body {
+	background-image: url(background2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+}
+
+.div1 {
+	font-style: bold;
+	font-family: "Allerta Stencil";
+	Color: #D8000B;
+	text-align: center;
+	position: relative;
+	bottom: -20px;
+}
+
+.button {
+	display: flex;
+	align-content: flex-end;
+	justify-content: center;
+	font-style: bold;
+	font-family: "Allerta Stencil";
+	color: #ff7400;
+}
+
+.facts{
+	font-family: "Allerta Stencil";
+	color: #f8f55f;
+	border: 2px solid #d8cf00;
+	padding: 20px;
+	width: 300px;
+	height: 300px;
+	font-size: 14.5px;
+	text-align: justify;
+
+}
+
+
